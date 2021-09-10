@@ -1,1 +1,9 @@
-Start
+void main() {
+  String name = "saqib";
+  int age = 21;
+  double point= 4;
+    print(age);
+    print(point/5);  
+    print(name);
+  }
+
