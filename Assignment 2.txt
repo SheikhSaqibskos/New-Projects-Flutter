@@ -1,0 +1,7 @@
+Answers: 
+1. Two types Arthematic and Logical Rational
+2.  var a = 2, b = 1;
+var result = --a - --b + ++b + b--;      
+print(result);
+   output => +3  due to Methematical Formulas 
+3.
